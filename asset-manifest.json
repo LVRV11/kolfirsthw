@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/kolfirsthw/static/css/main.7acaea2f.css",
-    "main.js": "/kolfirsthw/static/js/main.930983d6.js",
+    "main.js": "/kolfirsthw/static/js/main.c5fe3961.js",
     "index.html": "/kolfirsthw/index.html",
     "main.7acaea2f.css.map": "/kolfirsthw/static/css/main.7acaea2f.css.map",
-    "main.930983d6.js.map": "/kolfirsthw/static/js/main.930983d6.js.map"
+    "main.c5fe3961.js.map": "/kolfirsthw/static/js/main.c5fe3961.js.map"
   },
   "entrypoints": [
     "static/css/main.7acaea2f.css",
-    "static/js/main.930983d6.js"
+    "static/js/main.c5fe3961.js"
   ]
 }
