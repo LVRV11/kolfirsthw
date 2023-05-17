@@ -7,7 +7,7 @@ export const FriendListStyled = styled.ul`
 `;
 
 export const FriendListItemStyled = styled.li`
-  display: flex;
+  display: flex; 
   align-items: center;
   margin-bottom: 20px;
   padding: 15px;
